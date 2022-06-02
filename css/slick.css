@@ -1,0 +1,44 @@
+/* Slider */
+.slick-slider
+{
+    position: relative;
+}
+
+.slick-list
+{
+    overflow: hidden;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list{}
+
+.slick-track
+{
+    display: -webkit-box;display: -ms-flexbox;display: flex;font-size:0;; align-items: flex-start;
+}
+
+
+.slick-slide{}
+.slick-dots {
+
+}
+.slick-dots li {
+
+}
+.slick-dots li button {}
+.slick-dots li button .slick-active {}
+
+/*.slick-slide.dragging img
+{
+    pointer-events: none;
+}*/
+
