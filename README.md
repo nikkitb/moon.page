@@ -1,1 +1,1 @@
-[moon.page]: http://example.com/
+[# moon.page](http://example.com/)
