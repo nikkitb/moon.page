@@ -33,11 +33,6 @@ nav, footer, header, aside, section {
   display: block;
 }
 
-html, body {
-  height: 100%;
-  width: 100%;
-  font-size: 100%;
-}
 
 body {
   min-width: 320px;
@@ -1341,7 +1336,6 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 5;
   animation-duration: 2s;
   transition: all 500s ease;
 }
