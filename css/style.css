@@ -32,7 +32,11 @@ a:focus, a:active {
 nav, footer, header, aside, section {
   display: block;
 }
-
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+}
 
 body {
   min-width: 320px;
